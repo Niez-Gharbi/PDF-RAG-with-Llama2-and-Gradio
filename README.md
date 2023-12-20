@@ -37,3 +37,6 @@ To run the PDF Interaction ChatBot, execute the following command:
 cd src
 python app.py
 ```
+
+## License
+This project is licensed under the [Apache License 2.0](https://github.com/Niez-Gharbi/PDF-RAG-with-Llama2-and-Gradio/blob/main/LICENSE).
