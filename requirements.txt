@@ -1,0 +1,7 @@
+fitz==0.0.1.
+gradio==4.11.0      
+langchain==0.0.321  
+Pillow==10.1.0      
+torch==2.1.1        
+transformers==4.35.2
+PyYAML==6.0.1
