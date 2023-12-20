@@ -31,7 +31,7 @@ The ChatBot uses a configuration file (config.yaml) to specify Hugging Face mode
 2. Enter your questions in the text box.
 3. Click the "Send" button to submit your question.
 4. View the chat history and responses in the interface.
-![image](https://github.com/Niez-Gharbi/PDF-RAG-with-Llama2-and-Gradio/assets/57814219/60e7aa5b-8a40-4729-aee7-6bdccaa5313b)
+![image](https://github.com/Niez-Gharbi/PDF-RAG-with-Llama2-and-Gradio/assets/57814219/77b76c05-86fe-4020-8c7a-cf3d7402dcfd)
 
 ## Running Locally 💻
 To run the PDF Interaction ChatBot, execute the following command:
