@@ -1,7 +1,12 @@
-fitz==0.0.1.
+PyMuPDF==1.23.17
 gradio==4.11.0      
 langchain==0.0.321  
 Pillow==10.1.0      
 torch==2.1.1        
 transformers==4.35.2
 PyYAML==6.0.1
+chromadb==0.4.15
+pypdf==4.0.0
+Jinja2==3.1.3
+accelerate==0.26.1
+sentence-transformers==2.2.2
